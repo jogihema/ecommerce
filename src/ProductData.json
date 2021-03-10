@@ -1,0 +1,33 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81Vr-rwTpBL._UX569_.jpg",
+      "name": "Regular Fit",
+      "quantity": "1",
+      "price": "999"
+    },
+    {
+      "id": 2,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61qSfdpLenL._UL1453_.jpg",
+      "name": "Men's Regular",
+      "quantity": "2",
+      "price": "600"
+    },
+    {
+      "id": 3,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51wpu-iyHQL._UL1000_.jpg",
+      "name": " Casual Shirt",
+      "quantity": "3",
+      "price": "399"
+    },
+    {
+      "id": 4,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71sAOZL9ieL._UL1500_.jpg",
+      "name": "Slim Fit",
+      "quantity": "4",
+      "price": "699"
+    }
+  ]
+
+}
